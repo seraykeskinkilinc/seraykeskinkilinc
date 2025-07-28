@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Seray Keskinkılınç</h1>
+<h1 align="center">Hi ✨, I'm Seray Keskinkılınç</h1>
 <h3 align="center">I design systems, develop games, and dive deep into code until it makes sense (or I make it make sense).</h3>
 
-- 🌱 I’m currently studying Computer Engineering at **Dokuz Eylül University**
+- 🏫 I’m currently studying Computer Engineering at **Dokuz Eylül University**
 
 - 📫 How to reach me **seraykesinkilinc@gmail.com**
 
