@@ -1,12 +1,12 @@
-<h1 align="left">Hi✨</h1>
+<h1 align="left">Hi ✨</h1>
 
 ###
 
-<p align="left">I design systems, develop games, and dive deep into code until it makes sense (or I make it make sense).</p>
+<h3 align="center">I design systems, develop games, and dive deep into code until it makes sense (or I make it make sense).</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Connect me</h2>
+<h2 align="center">Connect me</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 ###
 
