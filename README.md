@@ -1,4 +1,4 @@
-<h1 align="left">Hi ✨</h1>
+<h1 align="center">Hi ✨</h1>
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/seray-keskink%C4%B1l%C4%B1n%C3%A7" target="_blank">
+  <a href="https://www.linkedin.com/in/seray-keskink%C4%B1l%C4%B1n%C3%A7/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
@@ -55,6 +55,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###
+
+<h2 align="center">My stats</h2>
 
 ###
 
