@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏫 I’m currently studying Computer Engineering at Dokuz Eylül University<br><br>📫 How to reach me seraykesinkilinc@gmail.com</p>
+<p align="left">🏫 I’m currently studying Computer Engineering at Dokuz Eylül University<br><br>📫 To reach me : seraykesinkilinc@gmail.com</p>
 
 ###
 
