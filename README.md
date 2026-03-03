@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">🏫 I’m currently studying Computer Engineering at Dokuz Eylül University<br><br>📫 To reach me : seraykesinkilinc@gmail.com</p>
+<p align="left">
+  🏫 I’m currently studying Computer Engineering at Dokuz Eylül University<br><br>
+  📫 To reach me : seraykeskinkilinc@gmail.com<br><br>
+  🌐 Check out my portfolio : <a href="https://seraykeskinkilinc.github.io/MyPortfolio/" target="_blank">seraykeskinkilinc.github.io/MyPortfolio</a>
+</p>
 
 ###
 
@@ -57,4 +61,3 @@
 </div>
 
 ###
-
