@@ -1,63 +1,73 @@
-<h1 align="center">Hi ✨</h1>
+```md
+<h1 align="center">Hi, I'm Seray 👋</h1>
 
-###
-
-<h3 align="center">I design systems, develop games, and dive deep into code until it makes sense (or I make it make sense).</h3>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="left">
-  🏫 I’m currently studying Computer Engineering at Dokuz Eylül University<br><br>
-  📫 To reach me : seraykeskinkilinc@gmail.com<br><br>
-  🌐 Check out my portfolio : <a href="https://seraykeskinkilinc.github.io/MyPortfolio/" target="_blank">seraykeskinkilinc.github.io/MyPortfolio</a>
+<p align="center">
+Computer Engineering Student • Full Stack Developer • AI Builder
 </p>
 
-###
+<p align="center">
+Building products, apps and intelligent systems with clean design & real-world impact.
+</p>
 
-<h2 align="center">Connect me</h2>
+---
 
-###
+## ✨ About Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/seray-keskink%C4%B1l%C4%B1n%C3%A7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+- 🎓 3rd Year Computer Engineering Student at Dokuz Eylül University  
+- 💻 Focused on Full Stack Development, AI and Product Building  
+- 📱 Currently developing an iPad Coloring Book App with Swift  
+- 🧠 Working on AI-based Lung Emphysema Detection Project  
+- 🌍 Australian & Turkish dual citizen, open to global opportunities  
+- ⚡ I enjoy turning ideas into polished products  
 
-###
+---
 
-<h2 align="center">Languages and Tools</h2>
+## 🚀 Current Projects
 
-###
+### 🎨 iPad Coloring Book App
+A creative iPad application focused on smooth drawing experience, responsive UI and enjoyable user interaction.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+### 🫁 Lung Emphysema Detection
+Developing a medical AI model for CT scan emphysema detection using Python, PyTorch and TensorFlow.
 
-###
+### ☕ Cekirdeck
+A full-stack e-commerce platform for boutique coffee roasters built with Spring Boot, React and MySQL.
+
+### 🎮 Crowel
+A 3D stealth-strategy game developed in Unity. Ranked Top 7 among 135 teams.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+`Java` `Python` `C#` `JavaScript` `Swift` `SQL`
+
+### Frameworks & Tools
+`React` `Spring Boot` `FastAPI` `Unity` `Git` `Azure` `MySQL`
+
+### Interests
+`Full Stack` `Artificial Intelligence` `Mobile Apps` `UI/UX` `Startups`
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: https://seraykeskinkilinc.github.io/MyPortfolio/
+- LinkedIn: https://linkedin.com/in/seraykeskinkilinc
+- Email: seraykeskinkilinc@gmail.com
+
+---
+
+## 📈 GitHub Goals
+
+- Build impactful real-world products  
+- Contribute to meaningful projects  
+- Keep learning and shipping consistently  
+
+---
+
+<p align="center">
+Thanks for visiting my profile ✨
+</p>
+```
